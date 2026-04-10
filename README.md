@@ -26,6 +26,6 @@ Computer Engineering graduate from the German University in Cairo. I build backe
 
 ## Contact
 
-- 📧 Open to remote backend and full-stack roles (UK/EU)
+- 📧 Open to remote backend and full-stack roles
 - 💼 [LinkedIn](https://linkedin.com/in/micheal-mokhles)
 - 🌍 Based in Cairo, Egypt — open to relocation
