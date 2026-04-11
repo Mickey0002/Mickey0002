@@ -5,7 +5,7 @@ Computer Engineering graduate from the German University in Cairo. I build backe
 ## Tech Stack
 
 **Backend:** Node.js · C++ · Java · Spring Boot · C# · ASP.NET  
-**Databases:** MongoDB · PostgreSQL · SQL Server · Custom storage engines  
+**Databases:** MongoDB · PostgreSQL · SQL Server · MySQL  
 **Frontend:** React · Material UI  
 **Game Dev:** Unity · C#  
 **Tools:** Git · Docker · Kubernetes · RabbitMQ · JWT · Socket.io · Stripe · REST APIs  
